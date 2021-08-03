@@ -7,3 +7,7 @@
 .terraform/
 errored.tfstate
 terraform.tfstate*.backup
+locals.tf
+outputs.tf
+users.tf
+*.tfstate
